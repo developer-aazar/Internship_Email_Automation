@@ -193,7 +193,7 @@ Sensitive files are excluded from version control.
 
 ## 👨‍💻 Author
 
-**Aazar Jatoi**
+**Abdul Latif Jatoi**
 
 Python Backend Developer
 
